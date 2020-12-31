@@ -1,0 +1,3 @@
+org\ik26w30\reportplugin\ReportPlugin.class
+org\ik26w30\reportplugin\Commands\ReportCommand.class
+org\ik26w30\reportplugin\Commands\MainCommand.class

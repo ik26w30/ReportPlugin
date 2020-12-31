@@ -1,0 +1,11 @@
+name: ReportPlugin
+version: 0.1
+main: org.ik26w30.reportplugin.ReportPlugin
+author: Ik26w30
+description: idk
+website: https://www.zionsstudios.eu
+commands:
+  report:
+    description: Report player
+  reportplugin:
+    description: Main Command
